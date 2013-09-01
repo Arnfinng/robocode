@@ -1,0 +1,1 @@
+This shall eventually become a robot for robocode. At the moment it's just two open source variants I have copied. 
