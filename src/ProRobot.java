@@ -8,7 +8,7 @@ import robocode.AdvancedRobot;
 
 
 public class ProRobot extends AdvancedRobot{
-	
+	HashMap<String, Enemy> enemies = new HashMap();
 	@Override
 	public void run() {
 		
