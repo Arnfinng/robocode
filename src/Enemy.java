@@ -5,7 +5,7 @@ public class Enemy {
 	String name;
 	double xPos;
 	double yPos;
-	guessPoition(){
+	public ArrayList<Double> guessPosition(long time){
 		ArrayList<Double> pos = new ArrayList<>();
 		pos.add(xPos);
 		pos.add(yPos);
