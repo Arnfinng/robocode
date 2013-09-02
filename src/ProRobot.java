@@ -24,8 +24,9 @@ public class ProRobot extends AdvancedRobot{
 	}
 	
 	private void shoot() {
-		// TODO Auto-generated method stub
-		
+		for(Enemy enemy: enemies.values()){
+			
+		}
 	}
 
 	private void move() {
